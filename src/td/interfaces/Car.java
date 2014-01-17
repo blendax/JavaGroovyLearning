@@ -5,6 +5,7 @@ package td.interfaces;
  */
 public interface Car {
 
+    // DUM KOD 2 så det så
     void startUpCar();
     int getPetrolLevel();
     String getBrand();
