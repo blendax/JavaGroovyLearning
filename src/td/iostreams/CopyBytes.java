@@ -26,6 +26,7 @@ public class CopyBytes {
             int c;
 
             while ((c = in.read()) != -1) {
+                // Chnage in day 3
                 out.write(c);
             }
             // in.close
