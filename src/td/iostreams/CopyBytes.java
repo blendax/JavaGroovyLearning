@@ -27,7 +27,6 @@ public class CopyBytes {
 
             while ((c = in.read()) != -1) {
                 out.write(c);
-                // DUM kod så det så.
             }
             // in.close
         } catch (IOException ioe) {
